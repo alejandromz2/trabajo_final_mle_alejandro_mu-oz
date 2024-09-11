@@ -1,0 +1,5 @@
+pandas
+numpy==1.15.4
+matplotlib
+scikit-learn
+tensorflow
