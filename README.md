@@ -1,1 +1,1 @@
-# data_dmc_ml_example
+# Data DMC MLE Workshop
